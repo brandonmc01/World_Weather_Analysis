@@ -21,4 +21,4 @@ The purpose of this project was to create four different deliverables.
 
 ![Vacation_Itinerary](Vacation_Itinerary/WeatherPy_travel_map.PNG)
 
-![Travel_Map_Markers](Vacation Itinerary/WeatherPy_travel_map_markers.PNG)
+![Travel_Map_Markers] (Vacation Itinerary/WeatherPy_travel_map_markers.PNG)
