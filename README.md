@@ -13,12 +13,9 @@ The purpose of this project was to create four different deliverables.
 4. Travel maps showing the functionality of the route planning feature of the app.
 
 ## Results
-![Weather_Database](Weather_Database/WeatherPy_Database.csv)
 
-![Vacation_Search](Vacation_Search/WeatherPy_vacation.csv)
+https://github.com/brandonmc01/World_Weather_Analysis/blob/38d1011a618e26e8b83f0a74ad2f080b38f027c6/Vaction%20Search/WeatherPy_vacation_map.PNG
 
-![Vacation_Map](Vacation_Search/WeatherPy_vacation_map.PNG)
-
-![Vacation_Itinerary](Vacation_Itinerary/WeatherPy_travel_map.PNG)
+https://github.com/brandonmc01/World_Weather_Analysis/blob/38d1011a618e26e8b83f0a74ad2f080b38f027c6/Vacation%20Itinerary/WeatherPy_travel_map.PNG
 
 https://github.com/brandonmc01/World_Weather_Analysis/blob/2039e06595d088419a6ba39958475f59720634d9/Vacation%20Itinerary/WeatherPy_travel_map_markers.PNG
