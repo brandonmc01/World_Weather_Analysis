@@ -3,7 +3,7 @@
 ## Overview
 
 ### Background
-I have been working on the code for a PlanMyTrip app. A few changes were needed to add functionality to the app allowing it to plan trip routes and filter hotels at locations based on user input for their weather preferences.
+I have been working on the code for a app. A few changes were needed to add functionality to the app allowing it to plan trip routes and filter hotels at locations based on user input for their weather preferences.
 
 ### Purpose
 The purpose of this project was to create four different deliverables.
@@ -14,8 +14,9 @@ The purpose of this project was to create four different deliverables.
 
 ## Results
 
-![Vaction Search](Vaction_Search/WeatherPy_vacation_map.PNG)
+![Vacation_Map](Vaction_Search/WeatherPy_vacation_map.PNG)
 
 ![Vacation_Itinerary](Vacation_Itinerary/WeatherPy_travel_map.PNG)
 
 ![Travel_Map_Markers](Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
+
