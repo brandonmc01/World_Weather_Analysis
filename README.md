@@ -18,5 +18,4 @@ https://github.com/brandonmc01/World_Weather_Analysis/blob/c145ee8c4cda084e7ce0a
 
 https://github.com/brandonmc01/World_Weather_Analysis/blob/744cd8707bbcf6d6fe306b2e9b0faf1a6ffcfbaf/Vacation%20Itinerary/WeatherPy_travel_map.PNG
 
-![Travel_Map_Markers](Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
-
+https://github.com/brandonmc01/World_Weather_Analysis/blob/d5492f298b2bee80e857ec67bf09320acee7175a/Vacation%20Itinerary/WeatherPy_travel_map_markers.PNG
